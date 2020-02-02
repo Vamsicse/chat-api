@@ -12,6 +12,9 @@ import org.springframework.web.bind.annotation.RestController;
 import com.galaxy.model.Message;
 import com.galaxy.service.MessageService;
 
+/**
+* author: Vamsi Krishna Myalapalli
+*/
 @RestController
 public class MessageController {
 
